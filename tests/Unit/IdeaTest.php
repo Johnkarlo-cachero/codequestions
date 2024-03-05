@@ -100,3 +100,4 @@ class IdeaTest extends TestCase
         $idea->removeVote($userOne);
     }
 }
+
